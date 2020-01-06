@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06_클래스_다듬기;
 
 public class Car {
 	String name;

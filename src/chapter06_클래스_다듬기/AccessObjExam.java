@@ -1,6 +1,6 @@
-package chapter06;
+package chapter06_클래스_다듬기;
 
-import chapter07.AccessObj;
+import chapter07_상속.AccessObj;
 
 public class AccessObjExam extends AccessObj{
 

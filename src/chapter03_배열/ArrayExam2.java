@@ -1,4 +1,4 @@
-package chapter04;
+package chapter03_배열;
 
 public class ArrayExam2 {
 

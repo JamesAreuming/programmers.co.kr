@@ -1,4 +1,4 @@
-package chapter07;
+package chapter07_상속;
 
 public class Cars {
 	public Cars(String name) {

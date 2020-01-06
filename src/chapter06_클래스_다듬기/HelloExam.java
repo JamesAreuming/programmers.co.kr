@@ -1,4 +1,4 @@
-package chapter06;
+package chapter06_클래스_다듬기;
 
 import com.programmers.javastudy.Hello;
 //import com.programmers.javastudy.*;
